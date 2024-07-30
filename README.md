@@ -1,4 +1,4 @@
-# Hi, I'm Luis! 👋
+# Hi, I'm Luiz! 👋
 
 Welcome to my GitHub profile! I’m a developer passionate about technology and programming.
 
