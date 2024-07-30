@@ -23,6 +23,6 @@ Welcome to my GitHub profile! I’m a developer passionate about technology and 
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg">
 </div>
 
-<div align="center"> 
+<div style="display: inline_block" align="center"><br>
   <a href="https://www.linkedin.com/in/luiz-gasparetto-25a158257/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
