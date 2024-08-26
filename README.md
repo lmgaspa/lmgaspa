@@ -21,6 +21,11 @@ Welcome to my GitHub profile! I’m a developer passionate about technology and 
   <img align="center" alt="Ts" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Django.svg">
+  <img align="center" alt="Python" height="40" width="40" src=https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg>
+  <img align="center" alt="Python" height="40" width="40" src=https://github.com/tandpfun/skill-icons/raw/main/icons/Spring-Dark.svg>
+  <img align="center" alt="Python" height="40" width="40" src=https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg>
+  <img align="center" alt="Python" height="40" width="40" src=https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg>
+  <img align="center" alt="Python" height="40" width="40" src=https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg>
 </div>
 
 <div style="display: inline_block" align="center"><br>
