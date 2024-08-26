@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I’m a developer passionate about technology and 
   <img align="center" alt="React" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
   <img align="center" alt="Vite" height="40" width="40" src=https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg
   <img align="center" alt="NodeJS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
   <img align="center" alt="docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
