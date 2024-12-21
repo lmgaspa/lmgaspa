@@ -2,11 +2,6 @@
 
 Welcome to my GitHub profile! I’m a developer passionate about technology and programming.
 
-## GitHub Stats
-
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmgaspa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmgaspa&layout=compact&theme=radical)
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="NextJS" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg">
   <img align="center" alt="Vue" height="40" width="40" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg">
